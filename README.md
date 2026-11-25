@@ -1,162 +1,126 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Carlos Nava. Full-stack and forward deployed engineer in Mexico. I talk to whoever has the problem, then build and run the fix. Open to remote roles and freelance projects." src="assets/header-light.svg" width="100%">
-</picture>
+# Hi, I'm Carlos.
 
-<p align="center">
-  <a href="https://www.carlosnava.dev"><img alt="Website: carlosnava.dev" src="https://img.shields.io/badge/carlosnava.dev-1e50d4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/carlosnavam"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge"></a>
-  <a href="mailto:hello@carlosnava.dev"><img alt="Email: hello@carlosnava.dev" src="https://img.shields.io/badge/hello@carlosnava.dev-15171c?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
-  <a href="https://www.carlosnava.dev/assets/cv/Carlos_Nava_CV.pdf"><img alt="CV in PDF" src="https://img.shields.io/badge/CV-PDF-5b606b?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
-  <a href="https://www.carlosnava.dev/es"><img alt="Versión en español" src="https://img.shields.io/badge/🇲🇽_Español-1f7a4d?style=for-the-badge"></a>
-</p>
+Full-stack and forward deployed engineer in Mexico. I talk to whoever has the problem, then build and run the fix.
 
-👋 **Senior full-stack engineer** and **forward deployed engineer** in Mexico 🇲🇽 with **6 years** shipping production software in **Python / Django**, **TypeScript / React / Next.js**, **React Native and Swift (iOS)** and **AI agents (Claude API, OpenAI API, MCP)** on **AWS**. I sit with the people who have the problem, then design, build, deploy and run the fix. I've also led a team of five. 🌎 Open to **remote** roles (US · Mexico · LATAM) and freelance projects.
+Six years with Python, Django, React, TypeScript and AWS. I build web and mobile apps, automations and AI agents, and I've led a team of five engineers. Open to remote roles and freelance projects, in Mexico and abroad.
 
-## 🚀 Building now
+[carlosnava.dev](https://www.carlosnava.dev) · [CV](https://www.carlosnava.dev/cv) · [LinkedIn](https://www.linkedin.com/in/carlosnavam) · [hello@carlosnava.dev](mailto:hello@carlosnava.dev) · [Español](https://www.carlosnava.dev/es)
+
+## Now
+
+A telecom operations platform I built on my own, for a client under NDA: SIM activations and prepaid recharges on AT&T and Movistar. Operating time is down **60%**, it processes about **MXN $1M** a month, and **96%** of activations and recharges succeed.
+
+- I worked with AT&T engineers on the SOAP client and a secure AWS Site-to-Site VPN.
+- An AI ops agent on the Claude API, with tool use and MCP, answers the owner's questions from live data. Corrective actions wait for a human, and an eval set measures its accuracy.
+- Domain-Driven Design, TDD and Spec-Driven Development, with scheduled data pipelines and dashboards for sales, inventory and system health.
+- I run it in production: monitoring, incidents and fixes.
+
+## My apps
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<img alt="Telecom operations platform: 96% of SIM activations and recharges succeed" src="assets/telecom-cover.svg" width="100%">
+<td width="50%" valign="top">
+<a href="https://therelic.app"><img alt="Relic on an iPhone, with the tagline remember what you read" src="https://www.carlosnava.dev/assets/projects/relic-preview.webp" width="100%"></a>
 
-**📡 Telecom ops platform**<br>
-<sub>Freelance · client under NDA · 2025 – now</sub>
+**[Relic](https://therelic.app)** · iOS, 2025 – now<br>
+A reading app with paying subscribers in the US, Mexico and Taiwan. Its remote MCP server, with OAuth 2.1, is listed in the Claude and ChatGPT directories. About 15,000 lines of Swift and 1,800 automated tests.
 
-SIM activations and recharges on AT&T and Movistar, built solo from discovery to production. **96%** success, **~MXN $1M** a month, **60%** less operating time.
-
-`Django` `React` `AWS VPN` `SOAP` `Claude API` `MCP`
+<sub>Swift · Expo · FastAPI · Supabase · Playwright · RevenueCat</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://therelic.app"><img alt="Relic on an iPhone: remember what you read" src="https://www.carlosnava.dev/assets/projects/relic-preview.webp" width="100%"></a>
+<td width="50%" valign="top">
+<a href="https://gymwigas.app"><img alt="Gym Wigas cover: work out, have a blast doing it" src="https://www.carlosnava.dev/assets/projects/gym-wigas-preview.webp" width="100%"></a>
 
-**📚 [Relic](https://therelic.app)**<br>
-<sub>iOS · founder, solo dev · 2025 – now</sub>
+**[Gym Wigas](https://gymwigas.app)** · iOS and Android, 2026 – now<br>
+A virtual gym: your character levels up when you train. Live video duels for up to 8 players, push-ups counted by the camera, and gym check-ins verified with Google Places.
 
-Brings back your book highlights every morning. Paying subscribers in 🇺🇸 🇲🇽 🇹🇼. Its MCP server is listed in the Claude and ChatGPT directories. ~15K lines of Swift, ~1,800 tests.
-
-`Swift` `Expo` `FastAPI` `Supabase` `MCP` `OAuth 2.1`
-</td>
-<td width="33%" valign="top">
-<a href="https://gymwigas.app"><img alt="Gym Wigas: work out, have a blast doing it" src="https://www.carlosnava.dev/assets/projects/gym-wigas-preview.webp" width="100%"></a>
-
-**🏋️ [Gym Wigas](https://gymwigas.app)**<br>
-<sub>iOS + Android · founder, solo dev · 2026 – now</sub>
-
-A fitness game: your character levels up only when you really train. Live video duels for 8, push-ups counted by the camera, verified gym check-ins. 898 commits in 43 days.
-
-`Next.js` `Expo` `Supabase` `LiveKit` `MediaPipe` `Stripe`
+<sub>Next.js · Expo · Supabase · LiveKit · MediaPipe · Stripe</sub>
 </td>
 </tr>
 </table>
 
 <details>
-<summary>🏗️ <b>Under the hood:</b> how each one is built</summary>
+<summary><b>How each one is built</b></summary>
 
-#### 📡 Telecom ops platform
+#### Telecom operations platform
 
 ```mermaid
 flowchart LR
-  owner(["👤 Owner"]) --> app["🖥️ Ops platform<br/>React · Django · DDD + TDD"]
-  app -->|"SOAP over AWS Site-to-Site VPN"| att["📡 AT&T"]
-  app --> mov["📡 Movistar"]
-  jobs["⏱️ Scheduled pipelines"] --> app
-  app --> dash["📊 Sales · inventory · health"]
-  owner <-->|"asks in plain words"| agent["🤖 AI ops agent<br/>Claude API · tool use · evals"]
-  agent -->|"MCP tools, live data"| app
-  agent -.->|"corrective actions wait for approval"| owner
+  owner(["Owner"]) --> app["Ops platform<br/>Django · React"]
+  owner -->|"asks in plain words"| agent["AI ops agent<br/>Claude API · MCP<br/>human approval · evals"]
+  agent -->|"live data"| app
+  cron["Scheduled pipelines"] --> app
+  app -->|"SOAP over AWS Site-to-Site VPN"| att["AT&T"]
+  app --> mov["Movistar"]
 ```
 
-#### 📚 Relic
+#### Relic
 
 ```mermaid
 flowchart LR
-  kindle["📥 Kindle import<br/>Playwright"] --> core[("🗄️ Library<br/>FastAPI · Supabase")]
-  paper["📷 Paper books<br/>OCR · dictation"] --> core
-  core --> ios["📱 iOS app<br/>Swift · Expo · 44 languages"]
-  ios --> daily["🌅 One highlight every morning"]
-  claude["Claude"] -->|"OAuth 2.1"| mcp["🔌 Remote MCP server<br/>official Python SDK"]
-  chatgpt["ChatGPT"] -->|"OAuth 2.1"| mcp
-  mcp --> core
+  kindle["Kindle import<br/>Playwright"] --> lib[("Library<br/>FastAPI · Supabase")]
+  paper["Paper books<br/>OCR · dictation"] --> lib
+  lib --> app["iOS app<br/>Swift · Expo"]
+  app --> daily["One highlight<br/>every morning"]
+  ai["Claude · ChatGPT"] -->|"OAuth 2.1"| mcp["Remote MCP server<br/>Python SDK"]
+  mcp --> lib
 ```
 
-#### 🏋️ Gym Wigas
+#### Gym Wigas
 
 ```mermaid
 flowchart LR
-  phone["📱 iOS · Android<br/>Expo · React Native"] -->|"pose landmarks"| reps["💪 Push-up counter<br/>MediaPipe · TF Lite"]
-  phone <-->|"WebRTC, up to 8 players"| duel["🎥 Live duels<br/>LiveKit"]
-  phone -->|"check-in"| places["📍 Google Places<br/>verifies the gym"]
-  phone <--> api["⚙️ Next.js · Supabase"]
-  reps --> xp["⭐ XP · levels · leaderboards"]
+  app["iOS · Android<br/>Expo · React Native"] -->|"pose landmarks"| reps["Push-up counter<br/>MediaPipe · TF Lite"]
+  app <-->|"WebRTC, up to 8 players"| duels["Live duels<br/>LiveKit"]
+  app -->|"check-in"| places["Google Places<br/>verifies the gym"]
+  reps --> xp["XP · levels · leaderboards"]
   places --> xp
-  api --> pay["💳 Stripe · RevenueCat"]
+  app <--> api["Next.js · Supabase"]
 ```
 
 </details>
 
-## 📈 Results I've shipped
+## Experience
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
-  <img alt="96% of activations and recharges succeed. About MXN $1M processed a month. 60% less operating time. 80% more accurate candidate classification. 70% less manual work. 60% faster reaction to threats. 40% of warehouse work automated. 50K+ flight bookings a month with 30% less downtime." src="assets/impact-light.svg" width="100%">
-</picture>
-
-## 🧰 Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cgo%2Cswift%2Cdjango%2Cfastapi%2Cgraphql%2Cpostgres%2Cmongodb%2Csupabase%2Creact%2Cnextjs%2Cvue%2Cnuxtjs%2Cangular%2Caws%2Cdocker%2Cgithubactions%2Clinux%2Cgit%2Ctensorflow%2Copencv&perline=12&theme=dark">
-  <img alt="Python, TypeScript, JavaScript, Go, Swift, Django, FastAPI, GraphQL, PostgreSQL, MongoDB, Supabase, React, Next.js, Vue, Nuxt, Angular, AWS, Docker, GitHub Actions, Linux, Git, TensorFlow, OpenCV" src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cgo%2Cswift%2Cdjango%2Cfastapi%2Cgraphql%2Cpostgres%2Cmongodb%2Csupabase%2Creact%2Cnextjs%2Cvue%2Cnuxtjs%2Cangular%2Caws%2Cdocker%2Cgithubactions%2Clinux%2Cgit%2Ctensorflow%2Copencv&perline=12&theme=light">
-</picture>
-
-![Claude API](https://img.shields.io/badge/Claude_API-d97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-15171c?style=flat-square)
-![MCP servers](https://img.shields.io/badge/MCP_servers-1e50d4?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![AI agents](https://img.shields.io/badge/AI_agents_·_tool_use_·_evals-5b606b?style=flat-square)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-1f1f1f?style=flat-square&logo=livekit&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097a7?style=flat-square&logo=mediapipe&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635bff?style=flat-square&logo=stripe&logoColor=white)
-
-<sub>🔎 Senior Full-Stack Engineer · Forward Deployed Engineer · Backend Engineer · AI Engineer · Python · Django · FastAPI · TypeScript · React · Next.js · React Native · Expo · Swift · iOS · PostgreSQL · Supabase · MongoDB · REST · GraphQL · SOAP · AWS (EC2, S3, VPN) · Docker · CI/CD · GitHub Actions · LLM · AI agents · Claude API · OpenAI API · Model Context Protocol (MCP) · OAuth 2.1 · Playwright · web scraping · data pipelines · Domain-Driven Design · TDD · Spec-Driven Development · remote · Mexico · LATAM · English · Spanish</sub>
-
-## 💼 Experience
-
-| 📅 | 🏢 | 👨‍💻 Role | 📈 Impact |
+| Years | Company | Role | Result |
 |---|---|---|---|
-| 2025 – now | Freelance | Forward Deployed Engineer | Telecom ops platform built solo · AI ops agent on Claude + MCP |
-| 2024 – 25 | Alluxi | Software Engineer | AI recruiting on the OpenAI API, **80%** more accurate classification |
-| 2023 – 24 | Jüsto | Backend Developer | Backend **30%** faster, **40%** of warehouse work automated |
-| 2023 | Scitum | Cybersecurity Engineer | Incident response on Cortex xSOAR + Python, **60%** faster |
-| 2021 – 23 | Alluxi | Full-Stack Engineer · Team Lead | Led **5** engineers · **50K+** bookings a month, **30%** less downtime |
-| 2021 | Nómada | Full-Stack Engineer | HR platform with React, GraphQL, Go and AWS |
-| 2020 – 21 | Sysy.mx | Backend Developer | Scraping bots for insurance data, **70%** less manual work |
+| 2025 – now | Freelance | Forward Deployed Engineer | The telecom platform above, plus apps and automations for small businesses |
+| 2024 – 25 | Alluxi | Software Engineer | Recruitment platform on the OpenAI API, candidate classification 80% more accurate |
+| 2023 – 24 | Jüsto | Backend Developer | Backend 30% faster, 40% of manual warehouse work automated |
+| 2023 | Scitum | Cybersecurity Engineer | Incident response automated with xSOAR and Python, 60% faster |
+| 2021 – 23 | Alluxi | Full-Stack Engineer, Team Lead | Led 5 engineers; flight bookings at 50,000+ a month, 30% less downtime |
+| 2021 | Nómada | Full-Stack Engineer | HR platform with React, GraphQL and Go |
+| 2020 – 21 | Sysy.mx | Backend Developer | Scraping bots for insurance data, 70% less manual work |
 
-🎓 B.Sc. Software Engineering, UANL · 🗣️ Spanish (native), English (professional) · 📄 [Full CV](https://www.carlosnava.dev/cv)
+B.Sc. Software Engineering, UANL · Native Spanish, professional English · [Full CV](https://www.carlosnava.dev/cv)
 
-## 📊 Activity
+## Skills
+
+**Languages** · Python, TypeScript, JavaScript, Go, Swift, SQL<br>
+**Backend** · Django, FastAPI, REST, GraphQL and SOAP APIs, PostgreSQL, MongoDB, Supabase<br>
+**Frontend and mobile** · React, Next.js, Vue, Nuxt, Angular, React Native, Expo, native iOS in Swift<br>
+**AI and automation** · Claude API, OpenAI API, AI agents, tool use, MCP servers, LLM evals, web scraping, data pipelines, OpenCV, MediaPipe<br>
+**Cloud and DevOps** · AWS (EC2, S3, Site-to-Site VPN), Docker, Render, GitHub Actions, CI/CD, Linux<br>
+**Practices** · Domain-Driven Design, Test-Driven Development, Spec-Driven Development, Scrum
+
+## On GitHub
+
+Contributions to this account per year. Most of it lands in private repositories: client work under NDA and my own apps. 2026 is counted to November 24, with 2,903 commits and 229 pull requests so far.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img alt="GitHub contributions per year: 2019 27, 2020 1,258, 2021 891, 2022 554, 2023 122, 2024 1,005, 2025 683, 2026 3,141 so far, with 2,903 commits and 229 pull requests." src="assets/activity-light.svg" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeguacelestial/yeguacelestial/output/snake-dark.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/yeguacelestial/yeguacelestial/output/snake-light.svg" width="100%">
+  <img alt="Contributions per year: 2019, 27. 2020, 1,258. 2021, 891. 2022, 554. 2023, 122. 2024, 1,005. 2025, 683. 2026 so far, 3,141." src="assets/activity-light.svg" width="100%">
 </picture>
 
 <details>
-<summary>🗂️ <b>Public projects</b> (most of my code is private: client work under NDA and my own apps)</summary>
+<summary>Public projects</summary>
 
-- 📰 [fake-news-detection](https://github.com/yeguacelestial/fake-news-detection): Django web app that flags fake news with a passive-aggressive classifier
-- 🎵 [amram-ai](https://github.com/yeguacelestial/amram-ai): desktop app that splits a song into stems with Demucs, fully offline
-- 🌦️ [reservamos-challenge](https://github.com/yeguacelestial/reservamos-challenge): Django REST API that compares weather forecasts across destinations
-- ✅ [puul-challenge](https://github.com/yeguacelestial/puul-challenge): task management API with NestJS and Docker
-- 🎙️ [podcast-multicam-editor](https://github.com/yeguacelestial/podcast-multicam-editor): cuts between two cameras based on who is speaking
-- 📍 [mclp-sto](https://github.com/yeguacelestial/mclp-sto): heuristics for the Maximal Covering Location Problem
+- [fake-news-detection](https://github.com/yeguacelestial/fake-news-detection): Django web app that flags fake news with a passive-aggressive classifier
+- [amram-ai](https://github.com/yeguacelestial/amram-ai): desktop app that splits a song into stems with Demucs, fully offline
+- [reservamos-challenge](https://github.com/yeguacelestial/reservamos-challenge): Django REST API that compares weather forecasts across destinations
+- [puul-challenge](https://github.com/yeguacelestial/puul-challenge): task management API with NestJS and Docker
+- [podcast-multicam-editor](https://github.com/yeguacelestial/podcast-multicam-editor): cuts between two cameras based on who is speaking
+- [mclp-sto](https://github.com/yeguacelestial/mclp-sto): heuristics for the Maximal Covering Location Problem
 
 </details>
 
-<p align="center"><sub>🎸 guitar · 🎹 piano · 🎻 orchestral music · 📚 books (where Relic came from) · 🏋️ the gym (where Gym Wigas came from)</sub></p>
+Away from the keyboard: guitar, piano, orchestral music, books and the gym. Relic came from the books, Gym Wigas from the gym.
