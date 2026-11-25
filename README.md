@@ -83,13 +83,13 @@ flowchart LR
 
 | Years | Company | Role | Result |
 |---|---|---|---|
-| 2025&nbsp;–&nbsp;now | Freelance | Forward Deployed Engineer | The telecom platform above, plus apps and automations for small businesses |
-| 2024&nbsp;–&nbsp;25 | Alluxi | Software Engineer | Recruitment platform on the OpenAI API, candidate classification 80% more accurate |
-| 2023&nbsp;–&nbsp;24 | Jüsto | Backend Developer | Backend 30% faster, 40% of manual warehouse work automated |
+| 2025&nbsp;–&#8288;&nbsp;now | Freelance | Forward Deployed Engineer | The telecom platform above, plus apps and automations for small businesses |
+| 2024&nbsp;–&#8288;&nbsp;25 | Alluxi | Software Engineer | Recruitment platform on the OpenAI API, candidate classification 80% more accurate |
+| 2023&nbsp;–&#8288;&nbsp;24 | Jüsto | Backend Developer | Backend 30% faster, 40% of manual warehouse work automated |
 | 2023 | Scitum | Cybersecurity Engineer | Incident response automated with xSOAR and Python, 60% faster |
-| 2021&nbsp;–&nbsp;23 | Alluxi | Full-Stack Engineer, Team Lead | Led 5 engineers; flight bookings at 50,000+ a month, 30% less downtime |
+| 2021&nbsp;–&#8288;&nbsp;23 | Alluxi | Full-Stack Engineer, Team Lead | Led 5 engineers; flight bookings at 50,000+ a month, 30% less downtime |
 | 2021 | Nómada | Full-Stack Engineer | HR platform with React, GraphQL and Go |
-| 2020&nbsp;–&nbsp;21 | Sysy.mx | Backend Developer | Scraping bots for insurance data, 70% less manual work |
+| 2020&nbsp;–&#8288;&nbsp;21 | Sysy.mx | Backend Developer | Scraping bots for insurance data, 70% less manual work |
 
 B.Sc. Software Engineering, UANL · Native Spanish, professional English · [Full CV](https://www.carlosnava.dev/cv)
 
