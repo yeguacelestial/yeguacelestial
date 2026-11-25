@@ -94,8 +94,8 @@ def main():
         refresh()
     stats = json.loads(DATA.read_text())
     for name, t in THEMES.items():
-        (ROOT / "assets" / f"activity-{name}.svg").write_text(chart(t, stats))
-    print("wrote assets/activity-light.svg, assets/activity-dark.svg")
+        (ROOT / "assets" / f"contributions-{name}.svg").write_text(chart(t, stats))
+    print("wrote assets/contributions-light.svg, assets/contributions-dark.svg")
 
 
 if __name__ == "__main__":

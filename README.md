@@ -83,13 +83,13 @@ flowchart LR
 
 | Years | Company | Role | Result |
 |---|---|---|---|
-| 2025 – now | Freelance | Forward Deployed Engineer | The telecom platform above, plus apps and automations for small businesses |
-| 2024 – 25 | Alluxi | Software Engineer | Recruitment platform on the OpenAI API, candidate classification 80% more accurate |
-| 2023 – 24 | Jüsto | Backend Developer | Backend 30% faster, 40% of manual warehouse work automated |
+| 2025&nbsp;–&nbsp;now | Freelance | Forward Deployed Engineer | The telecom platform above, plus apps and automations for small businesses |
+| 2024&nbsp;–&nbsp;25 | Alluxi | Software Engineer | Recruitment platform on the OpenAI API, candidate classification 80% more accurate |
+| 2023&nbsp;–&nbsp;24 | Jüsto | Backend Developer | Backend 30% faster, 40% of manual warehouse work automated |
 | 2023 | Scitum | Cybersecurity Engineer | Incident response automated with xSOAR and Python, 60% faster |
-| 2021 – 23 | Alluxi | Full-Stack Engineer, Team Lead | Led 5 engineers; flight bookings at 50,000+ a month, 30% less downtime |
+| 2021&nbsp;–&nbsp;23 | Alluxi | Full-Stack Engineer, Team Lead | Led 5 engineers; flight bookings at 50,000+ a month, 30% less downtime |
 | 2021 | Nómada | Full-Stack Engineer | HR platform with React, GraphQL and Go |
-| 2020 – 21 | Sysy.mx | Backend Developer | Scraping bots for insurance data, 70% less manual work |
+| 2020&nbsp;–&nbsp;21 | Sysy.mx | Backend Developer | Scraping bots for insurance data, 70% less manual work |
 
 B.Sc. Software Engineering, UANL · Native Spanish, professional English · [Full CV](https://www.carlosnava.dev/cv)
 
@@ -107,8 +107,8 @@ B.Sc. Software Engineering, UANL · Native Spanish, professional English · [Ful
 Contributions to this account per year. Most of it lands in private repositories: client work under NDA and my own apps. 2026 is counted to November 24, with 2,903 commits and 229 pull requests so far.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img alt="Contributions per year: 2019, 27. 2020, 1,258. 2021, 891. 2022, 554. 2023, 122. 2024, 1,005. 2025, 683. 2026 so far, 3,141." src="assets/activity-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img alt="Contributions per year: 2019, 27. 2020, 1,258. 2021, 891. 2022, 554. 2023, 122. 2024, 1,005. 2025, 683. 2026 so far, 3,141." src="assets/contributions-light.svg" width="100%">
 </picture>
 
 <details>
