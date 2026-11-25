@@ -105,8 +105,8 @@ flowchart LR
 ## 🧰 Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,go,swift,django,fastapi,graphql,postgres,mongodb,supabase,react,nextjs,vue,nuxtjs,angular,aws,docker,githubactions,linux,git,tensorflow,opencv&perline=12&theme=dark">
-  <img alt="Python, TypeScript, JavaScript, Go, Swift, Django, FastAPI, GraphQL, PostgreSQL, MongoDB, Supabase, React, Next.js, Vue, Nuxt, Angular, AWS, Docker, GitHub Actions, Linux, Git, TensorFlow, OpenCV" src="https://skillicons.dev/icons?i=py,ts,js,go,swift,django,fastapi,graphql,postgres,mongodb,supabase,react,nextjs,vue,nuxtjs,angular,aws,docker,githubactions,linux,git,tensorflow,opencv&perline=12&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cgo%2Cswift%2Cdjango%2Cfastapi%2Cgraphql%2Cpostgres%2Cmongodb%2Csupabase%2Creact%2Cnextjs%2Cvue%2Cnuxtjs%2Cangular%2Caws%2Cdocker%2Cgithubactions%2Clinux%2Cgit%2Ctensorflow%2Copencv&perline=12&theme=dark">
+  <img alt="Python, TypeScript, JavaScript, Go, Swift, Django, FastAPI, GraphQL, PostgreSQL, MongoDB, Supabase, React, Next.js, Vue, Nuxt, Angular, AWS, Docker, GitHub Actions, Linux, Git, TensorFlow, OpenCV" src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cgo%2Cswift%2Cdjango%2Cfastapi%2Cgraphql%2Cpostgres%2Cmongodb%2Csupabase%2Creact%2Cnextjs%2Cvue%2Cnuxtjs%2Cangular%2Caws%2Cdocker%2Cgithubactions%2Clinux%2Cgit%2Ctensorflow%2Copencv&perline=12&theme=light">
 </picture>
 
 ![Claude API](https://img.shields.io/badge/Claude_API-d97757?style=flat-square&logo=anthropic&logoColor=white)
